@@ -1,0 +1,5 @@
+- 👋 Chào mừng bạn ghé thăm CytronTech.Vn
+- 👀 Cytron Technologies là một sàn thương mại điện tử cung cấp các bo mạch SBC, vi điều khiển và linh kiện điện tử.
+- 🌱 Một số sản phẩm tiêu biểu có thể kể đến như Raspberry Pi, micro:bit, Arduino và ESP.
+- 💞️ Ngoài ra, Cytron cũng có chương trình hỗ trợ cho học sinh, sinh viên và giáo viên.
+- 📫 Bạn có thể truy cập cửa hàng tại https://cytrontech.vn
